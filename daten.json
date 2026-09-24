@@ -1,0 +1,134 @@
+{
+  "firma": "planGIS GmbH",
+  "stelle": "Landschaftsplaner (m/w/d)",
+  "ort": "Hannover",
+  "plz": "30177",
+  "branche": "galabau",
+  "farbe_primary": "#95C11F",
+  "farbe_secondary": "#009FE3",
+  "region_badge": "Hannover & Umgebung",
+  "benefit_top": "Home-Office möglich",
+  "benefits": [
+    "Home-Office möglich – feste Bürotage in Hannover sind vorgesehen",
+    "Flexible Arbeitszeiten",
+    "Unbefristeter Arbeitsvertrag in Vollzeit",
+    "Sinnvolle Arbeit: Du treibst die Energiewende voran",
+    "Jobticket (Deutschlandticket), Jobrad-Leasing & Firmenhandy",
+    "Betriebliche Altersvorsorge & Kita-Zuschuss",
+    "Flache Hierarchien, strukturierte Abläufe & freundliches Arbeitsklima",
+    "Betriebsausflüge & regelmäßige Firmenfeiern"
+  ],
+  "aufgaben": [
+    "Du erarbeitest Flächennutzungs- und Bebauungspläne für Windenergie, Photovoltaik und andere Projekte der Erneuerbaren Energien",
+    "Du erstellst Texte und Karten (GIS) und wägst eingegangene Stellungnahmen ab",
+    "Du stimmst dich mit Projektierern, Behörden, Gemeinden und Fachplanern ab",
+    "Du begleitest bauleitplanerische Verfahren"
+  ],
+  "anforderung": "Studium in Landschaftsplanung, Stadt- oder Raumplanung, Geographie, Landespflege, Landschaftsarchitektur o. Ä. – oder passende Fähigkeiten auf anderem Weg – plus mehrjährige Planungspraxis. Du arbeitest sicher mit GIS (ESRI, QGIS) und XPlanung und kennst dich im Umwelt- und Planungsrecht aus.",
+  "fachrichtungen_frage": "Was ist dein fachlicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Landschaftsplanung / Landschaftsarchitektur / Landespflege",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Master / Diplom",
+          "icon": "🎓"
+        },
+        {
+          "label": "Bachelor",
+          "icon": "📘"
+        },
+        {
+          "label": "Fähigkeiten auf anderem Weg erworben",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Stadt- oder Raumplanung",
+      "icon": "🏙️",
+      "qualifikationen": [
+        {
+          "label": "Master / Diplom",
+          "icon": "🎓"
+        },
+        {
+          "label": "Bachelor",
+          "icon": "📘"
+        },
+        {
+          "label": "Fähigkeiten auf anderem Weg erworben",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Geographie",
+      "icon": "🗺️",
+      "qualifikationen": [
+        {
+          "label": "Master / Diplom",
+          "icon": "🎓"
+        },
+        {
+          "label": "Bachelor",
+          "icon": "📘"
+        },
+        {
+          "label": "Fähigkeiten auf anderem Weg erworben",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Angrenzendes Gebiet",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Master / Diplom",
+          "icon": "🎓"
+        },
+        {
+          "label": "Bachelor",
+          "icon": "📘"
+        },
+        {
+          "label": "Fähigkeiten auf anderem Weg erworben",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "30",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2000",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "2",
+        "label": "Standorte"
+      }
+    ],
+    "text": "planGIS ist ein Planungsbüro für Geoinformationen und Umweltplanung mit Sitz in Leer und Hannover. Die Schwerpunkte: Erneuerbare Energien, Klimaschutz und GIS-Anwendungen – für Auftraggeber vom Projektierer über Kommunen bis zu Bundesbehörden, begleitet von einem interdisziplinären Team durch alle Planungsphasen."
+  },
+  "kunde_tab": "13 planGIS GmbH",
+  "quelle": "https://plangis.green-careers.de",
+  "logo": "logo.jpg",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Hannover"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1-team.jpg",
+    "img/f2-wind-photovoltaik.jpg",
+    "img/f3-landschaft.jpg",
+    "img/f4-wald.jpg"
+  ]
+}
