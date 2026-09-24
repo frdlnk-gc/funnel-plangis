@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo.jpg",
+ "foto": "img/foto-hd-team.jpg",
+ "fokus": [
+  0.45,
+  0.5
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#95C11F",
+ "headline": [
+  "LANDSCHAFTS-",
+  "PLANER"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Hannover · Langenhagen · Laatzen & Umgebung"
+}

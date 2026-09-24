@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo.jpg",
+ "fotos": [
+  "img/foto-hd-team.jpg",
+  "img/foto-hd-wind-photovoltaik.jpg",
+  "img/foto-hd-landschaft.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.5
+  ],
+  [
+   0.55,
+   0.55
+  ],
+  [
+   0.6,
+   0.6
+  ]
+ ],
+ "primary": "#95C11F",
+ "ink": "#3A3A3A",
+ "headline": [
+  "Landschafts-",
+  "planer"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Hannover · Langenhagen · Laatzen",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

@@ -1,0 +1,44 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo.jpg",
+  "foto": "img/foto-hd-wind-photovoltaik.jpg",
+  "primary": "#95C11F",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "panel_bg": "#3F4448",
+  "kicker": "WIR SUCHEN IN HANNOVER & UMGEBUNG",
+  "headline": [
+   "Landschaftsplaner (m/w/d)"
+  ],
+  "subline": "Bauleitplanung für Windenergie & Photovoltaik – Home-Office möglich.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.55,
+   0.6
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo.jpg",
+  "foto": "img/foto-hd-landschaft.jpg",
+  "primary": "#95C11F",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN HANNOVER & UMGEBUNG",
+  "headline": [
+   "Landschaftsplaner (m/w/d)"
+  ],
+  "checkliste": [
+   "Home-Office möglich",
+   "Flexible Arbeitszeiten",
+   "Unbefristet + Deutschlandticket"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.6,
+   0.5
+  ]
+ }
+]
