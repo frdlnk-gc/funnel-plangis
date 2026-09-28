@@ -1,15 +1,15 @@
 {
   "firma": "planGIS GmbH",
   "stelle": "Landschaftsplaner (m/w/d)",
-  "ort": "Hannover",
-  "plz": "30177",
+  "ort": "Leer",
+  "plz": "26789",
   "branche": "galabau",
   "farbe_primary": "#95C11F",
   "farbe_secondary": "#009FE3",
-  "region_badge": "Hannover & Umgebung",
+  "region_badge": "Leer & Umgebung",
   "benefit_top": "Home-Office möglich",
   "benefits": [
-    "Home-Office möglich – feste Bürotage in Hannover sind vorgesehen",
+    "Home-Office möglich – feste Bürotage in Leer sind vorgesehen",
     "Flexible Arbeitszeiten",
     "Unbefristeter Arbeitsvertrag in Vollzeit",
     "Sinnvolle Arbeit: Du treibst die Energiewende voran",
@@ -122,7 +122,7 @@
   "logo": "logo.jpg",
   "karte": {
     "bild": "img/karte.jpg",
-    "label": "Hannover"
+    "label": "Leer"
   },
   "hero_bild": "img/hero.jpg",
   "bilder": [
